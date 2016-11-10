@@ -65,4 +65,4 @@ Copyright 2016 Bancroft Gracey
 
 This document is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
 
-Software in this project is licensed under the GNI General Public License, v3. For details, see the file GPL.txt or the text in any source code file in this project, or see http://www.gnu.org/licenses/.
+Software in this project is licensed under the GNU General Public License, v3. For details, see the file GPL.txt or the text in any source code file in this project, or see http://www.gnu.org/licenses/.
